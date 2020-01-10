@@ -1,0 +1,11 @@
+# Ignore everything 
+*
+
+# Except
+!.gitignore
+!README.md
+
+# Program files
+!alien_occupation.py
+!spaceship.py
+!settings.py
